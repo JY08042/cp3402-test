@@ -30,7 +30,11 @@
 
 						<p class="powered-by-wordpress">
 							<a href="<?php echo esc_url( __( 'https://wordpress.org/', 'twentytwenty' ) ); ?>">
+<<<<<<< HEAD
 								<?php _e( 'Powered by Group10', 'twentytwenty' ); ?>
+=======
+								<?php _e( 'Powered by Hello', 'twentytwenty' ); ?>
+>>>>>>> c744946a85a0aa252a19e792bbcf6c6f40ca6fe5
 							</a>
 						</p><!-- .powered-by-Group10 -->
 
