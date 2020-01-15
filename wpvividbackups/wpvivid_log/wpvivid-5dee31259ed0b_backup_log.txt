@@ -1,0 +1,38 @@
+Log created: 2019-12-09 11:33:57
+Type: backup
+[2019-12-09 11:33:57][notice]Start backing up.
+[2019-12-09 11:33:57][notice]server info fcgi:Off max execution time: 900 wp version:5.3 php version:7.0.18-0ubuntu0.16.04.1 db version:5.7.18 php ini:safe_mode: memory_limit:256M memory_get_usage:26.09 MB memory_get_peak_usage:26.67 MB extensions:PDO enabled curl enabled zlib enabled   is_multisite:0
+[2019-12-09 11:33:57][notice]Prepare to backup backup_db files.
+[2019-12-09 11:33:57][notice]Start exporting database.
+[2019-12-09 11:33:57][notice]max_allowed_packet less than 32M :16.00 MB
+[2019-12-09 11:33:57][notice]Preparing to dump table wp_commentmeta
+[2019-12-09 11:33:57][notice]Preparing to dump table wp_comments
+[2019-12-09 11:33:57][notice]Preparing to dump table wp_links
+[2019-12-09 11:33:57][notice]Preparing to dump table wp_options
+[2019-12-09 11:33:57][notice]Preparing to dump table wp_postmeta
+[2019-12-09 11:33:57][notice]Preparing to dump table wp_posts
+[2019-12-09 11:33:57][notice]Preparing to dump table wp_sg_action
+[2019-12-09 11:33:57][notice]Preparing to dump table wp_sg_config
+[2019-12-09 11:33:57][notice]Preparing to dump table wp_sg_schedule
+[2019-12-09 11:33:57][notice]Preparing to dump table wp_term_relationships
+[2019-12-09 11:33:57][notice]Preparing to dump table wp_term_taxonomy
+[2019-12-09 11:33:57][notice]Preparing to dump table wp_termmeta
+[2019-12-09 11:33:57][notice]Preparing to dump table wp_terms
+[2019-12-09 11:33:57][notice]Preparing to dump table wp_usermeta
+[2019-12-09 11:33:57][notice]Preparing to dump table wp_users
+[2019-12-09 11:33:57][notice]Exporting database finished.
+[2019-12-09 11:33:57][notice]Start compressing backup_db
+[2019-12-09 11:33:58][notice]Prepare to zip files. file: wpdistillery.vm_wpvivid-5dee31259ed0b_2019-12-09-11-33_backup_db.zip
+[2019-12-09 11:33:58][notice]Adding zip files completed.wpdistillery.vm_wpvivid-5dee31259ed0b_2019-12-09-11-33_backup_db.zip, filesize: 830.02 KB
+[2019-12-09 11:33:58][notice]Compressing backup_db completed
+[2019-12-09 11:33:58][notice]Backing up backup_db completed.
+[2019-12-09 11:33:58][notice]Prepare to backup backup_merge files.
+[2019-12-09 11:33:58][notice]File number: 1
+[2019-12-09 11:33:58][notice]Start compressing backup_merge
+[2019-12-09 11:33:58][notice]Prepare to zip files. file: wpdistillery.vm_wpvivid-5dee31259ed0b_2019-12-09-11-33_backup_all.zip
+[2019-12-09 11:33:58][notice]Adding zip files completed.wpdistillery.vm_wpvivid-5dee31259ed0b_2019-12-09-11-33_backup_all.zip, filesize: 830.53 KB
+[2019-12-09 11:33:58][notice]Cleaned up file, filename: /var/www/public/wp-content/wpvividbackups/wpdistillery.vm_wpvivid-5dee31259ed0b_2019-12-09-11-33_backup_db.zip
+[2019-12-09 11:33:58][notice]Compressing backup_merge completed
+[2019-12-09 11:33:58][notice]Backing up backup_merge completed.
+[2019-12-09 11:33:58][notice]Backup completed.
+[2019-12-09 11:33:58][notice]Backup succeeded.
