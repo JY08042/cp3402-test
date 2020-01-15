@@ -1,0 +1,26 @@
+/*
+Theme Name:Mod-twenty;
+Description:Twentytwenty child theme;
+Author:Zhuo Linyu;
+Template:twentytwenty
+Version:1.1;
+*/
+
+/* Theme customization starts here */
+
+body{
+	background-color: #ffffff;
+}
+
+#wpadminbar {
+	background: #cc0037;
+}
+
+#site-header {
+    color: #ffffff;
+}
+
+#site-header {
+    background: #0757fe;
+    position: relative;
+}
