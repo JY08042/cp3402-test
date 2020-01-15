@@ -34,7 +34,7 @@
 
 
 
-								<?php _e( 'Powered by Team 10', 'twentytwenty' ); ?>
+								<?php _e( 'Powered by CMS Team 10', 'twentytwenty' ); ?>
 
 							</a>
 						</p><!-- .powered-by-Team10 -->
