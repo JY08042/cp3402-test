@@ -32,7 +32,7 @@
 							<a href="<?php echo esc_url( __( 'https://wordpress.org/', 'twentytwenty' ) ); ?>">
 								<?php _e( 'Powered by Hello', 'twentytwenty' ); ?>
 							</a>
-						</p><!-- .powered-by-wordpress -->
+						</p><!-- .powered-by-Team10!!! -->
 
 					</div><!-- .footer-credits -->
 
