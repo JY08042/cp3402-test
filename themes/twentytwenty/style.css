@@ -129,7 +129,7 @@ body {
 	box-sizing: border-box;
 	color: #000;
 	font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", Helvetica, sans-serif;
-	font-size: 1.8rem;
+	font-size: 2rem;
 	letter-spacing: -0.015em;
 	text-align: left;
 }
@@ -191,13 +191,13 @@ path {
 }
 
 .screen-reader-text:focus {
-	background-color: #f1f1f1;
+	background-color: #e6e6e6;
 	border-radius: 3px;
 	box-shadow: 0 0 2px 2px rgba(0, 0, 0, 0.6);
 	clip: auto !important;
 	-webkit-clip-path: none;
 	clip-path: none;
-	color: #21759b;
+	color: #247ea8;
 	display: block;
 	font-size: 14px;
 	font-size: 0.875rem;
